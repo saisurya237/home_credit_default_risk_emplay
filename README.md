@@ -2,7 +2,7 @@
 The code is written using the jupyter notebook and the score is submitted as such via email.
 
 # approach to the problem
-1) I download and set up an environment on vmware for python and data analysis on kali os.
+1) I downloaded and set up an environment on vmware for python and data analysis on kali os.
 2) then performed EDA (exploratory data analysis) on the data to make sense and find patterns in the data.
 3) then i installed jupyter notebook for easier use and also made a kaggle API token.
 4) open a local jupyter server and started a  notebok where after the initial EDA, i performed basic feature engineering by only taking numeric data columns and built a model and trained it.
