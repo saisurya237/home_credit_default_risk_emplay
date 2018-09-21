@@ -17,6 +17,10 @@ The code is written using the jupyter notebook and the score is submitted as suc
 1) i didnt take into the account for the over-fitting of the data yet.
 2) minimal feature engineering model but robust.
 
+# Update
+1)after some feature engineering the score is improved, kindly check the following jupyter notebook in the repo.
+home_default_risk_feature_engg.ipnyb
+
 # packages used
 1) XGBoost 
 2) numpy
